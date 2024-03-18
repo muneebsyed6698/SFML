@@ -1,1 +1,0 @@
-vf = (gravity * time);
